@@ -93,6 +93,11 @@
        width="250"
        alt="Oracle Java Explorer Badge"/>
 </a>
+<a href="https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations-training-and-assessment/152239">
+  <img src="./assets/oracle-java-foundations.png"
+       width="250"
+       alt="Oracle Java Foundations Badge"/>
+</a>
 </div>
 
 ---
