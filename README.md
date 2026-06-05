@@ -13,18 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="60%" style="max-width: 460px;" 
-     src="https://streak-stats.demolab.com?user=Leoocx&theme=tokyonight&hide_border=true" 
-     alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🚀 Currently Studying
 
 ### Backend Development
